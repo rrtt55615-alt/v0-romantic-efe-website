@@ -72,7 +72,6 @@ function Heart3D({ position }: { position: [number, number, number] }) {
           color="#ffffff"
           anchorX="center"
           anchorY="middle"
-          font="/fonts/Geist-Bold.ttf"
           outlineWidth={0.02}
           outlineColor="#dc2626"
         >
